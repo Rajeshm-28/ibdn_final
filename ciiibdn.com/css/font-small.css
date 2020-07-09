@@ -1,0 +1,72 @@
+
+
+
+
+.member-text{color: #272727; font-size: 14px; text-align: left; border-right: solid 0px #333333; border-bottom: solid 0px #333333; border-bottom-style:dotted;border-right-style:dotted; padding:5px;}
+.member-text2{color: #272727; font-size: 14px; text-align: left;  border-bottom: solid 0px #333333; border-bottom-style:dotted; padding:5px;}
+.member-text3{color: #272727; font-size: 14px; text-align: left; border-right: solid 0px #333333; border-right-style:dotted; padding:5px;}
+
+
+
+.offr-sub-font{font-size: 14px;}
+
+
+.font-small-menu{font-size: 14px;}
+
+.email-box a { font-size: 17px; margin: 0 0 0 0px;}
+
+.bannerfont{font-size: 36px;}
+
+
+
+
+.message-box h2 {
+    font-size: 36px;  font-weight: 500;padding: 0 0 10px; 
+	 margin: 0; line-height: 62px; margin-top: 0; text-transform: none; color: #080808;}
+
+
+
+.message-box p {margin-bottom: 20px; font-size: 18px;}
+
+
+.midd-heading { font-size: 36px; font-weight: 500; padding: 0 0 10px; margin: 0; line-height: 62px; margin-top: 0;
+    text-transform: none; color: #fff;}
+	
+	
+
+	
+	
+.members-bg {   font-size: 24px;}
+
+	
+.slide-text h1 { font-size: 40px;}
+.slide-text h2 { font-size: 22px; }  
+
+#feedback a {	font-size: 17px;}
+	
+#cssmenu > ul > li > a {font-size: 15px; }
+
+.footer .widget-title h3 {     font-size: 21px; }
+
+.service-widget h3 a, .section.wb .service-widget h3, .section.lb .service-widget h3 {
+    color: #fff;  font-size: 28px; }
+	
+	
+	
+.subscribe { font-size: 16px;
+    padding: 8px 7px 8px 7px;}		
+	
+	
+.footer-social{ font-size:24px;}
+.footer-color {  font-size: 15px; }
+.copyright{font-size: 13px;}
+
+
+
+
+@media screen and (max-width: 1000px) {    
+
+.email-box a { font-size: 17px; margin: 0 0 0 3px;}
+
+
+ }

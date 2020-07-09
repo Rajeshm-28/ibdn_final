@@ -1,0 +1,35 @@
+*{
+    font-family:Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: #892E7E;
+}
+
+.signup-container {
+    width: 350px;
+    height:400px;
+    background-color: #F4F5F7;
+    margin: 100px auto;
+    border-radius:50px;
+}
+
+.signup-container h1 {
+    text-align: center;
+    color: #892E7E;
+    font-size: 24px;
+    padding: 20px 0 10px 0;
+
+}
+
+#signup-form {
+    text-align: center;
+}
+
+.signup-pad {
+    padding-top: 10px;
+}
+
+.signup-alert{
+    color:red;
+}
